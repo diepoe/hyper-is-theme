@@ -8,6 +8,10 @@
     "name": "Dietrich"
   },
   "publisher": "haudraufhaun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haudraufhaun/hyper-is-theme"
+  },
   "engines": {
     "vscode": "^1.61.0"
   },
