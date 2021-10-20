@@ -105,14 +105,14 @@
 		// list
 		"list.activeSelectionBackground": "#000",
 		"list.activeSelectionForeground": "#fff",
-		"list.dropBackground": "#686868",
+		"list.dropBackground": "#000",
 		"list.focusBackground": "#000",
-		"list.focusForeground": "#fff",
+		"list.focusForeground": "#20C5C6",
 		"list.highlightForeground": "#fff",
-		"list.hoverBackground": "#686868",
-		"list.hoverForeground": "#fff",
-		"list.inactiveSelectionBackground": "#686868",
-		"list.inactiveSelectionForeground": "#000",
+		"list.hoverBackground": "#000",
+		"list.hoverForeground": "#FD7CFC",
+		"list.inactiveSelectionBackground": "#000",
+		"list.inactiveSelectionForeground": "#68FDFE",
 		// menu
 		"menu.background": "#000",
 		// ***merge to change
