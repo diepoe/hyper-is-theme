@@ -4,6 +4,10 @@ All notable changes to the "hyper-is-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5]
+
+- fix broken release workflow
+
 ## [0.0.4]
 
 - add automated packaging via github actions (`57fb6ad`)
