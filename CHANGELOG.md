@@ -4,6 +4,11 @@ All notable changes to the "hyper-is-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4]
+
+- add automated packaging via github actions (`57fb6ad`)
+- this release should also be the first published on the [Open VSX Registry](https://open-vsx.org/)
+
 ## [0.0.3]
 
 - adjust input styles (`267979b0778188494dff7bc7b228468ed485663a`)
