@@ -195,6 +195,11 @@
 		"tab.unfocusedActiveForeground": "#C7C7C7",
 		"tab.unfocusedInactiveForeground": "#C7C7C7",
 		// --- workbench ---//
+		// titlebar
+		"titleBar.activeBackground": "#000",
+		"titleBar.inactiveBackground": "#000",
+		"titleBar.activeForeground": "#C7C7C7",
+		"titleBar.inactiveForeground": "#686868",
 		// terminal
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiRed": "#C51E14",
