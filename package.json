@@ -4,8 +4,8 @@
   "displayName": "Hyper.is Theme",
   "description": "color theme based on the standard Hyperterm colors",
   "category": "themes",
-  "icon": "images/Hyper_Logo.png",
-  "version": "0.0.6",
+  "icon": "img/Hyper_Logo.png",
+  "version": "0.0.7",
   "author": {
     "name": "Dietrich"
   },

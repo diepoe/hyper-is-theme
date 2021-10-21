@@ -4,6 +4,9 @@ All notable changes to the "hyper-is-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.7]
+
+- fix icon path
 ## [0.0.6]
 
 - added a license (MIT) `743a217`
