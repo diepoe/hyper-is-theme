@@ -4,6 +4,14 @@ All notable changes to the "hyper-is-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6]
+
+- added a license (MIT) `743a217`
+- styled titlebar `4bee2a4`
+- added logo `c264010`
+- updated gitignore `9a4fe66`
+- disabled vsx publishing `8570c64`
+
 ## [0.0.5]
 
 - fix broken release workflow
