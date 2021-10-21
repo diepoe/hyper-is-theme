@@ -1,8 +1,10 @@
 {
+  "license": "MIT",
   "name": "hyper-is-theme",
   "displayName": "Hyper.is Theme",
   "description": "color theme based on the standard Hyperterm colors",
   "category": "themes",
+  "icon": "images/Hyper_Logo.png",
   "version": "0.0.5",
   "author": {
     "name": "Dietrich"
