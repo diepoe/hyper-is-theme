@@ -4,9 +4,16 @@ All notable changes to the "hyper-is-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.8]
+
+- fixed some invisble colorings (`b4a5e0e`)
+  - issue #2
+- add VSX registry publishing `54d5700`
+
 ## [0.0.7]
 
 - fix icon path
+
 ## [0.0.6]
 
 - added a license (MIT) `743a217`
