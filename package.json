@@ -26,6 +26,11 @@
         "label": "Hyper.is Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Hyper.is Theme-color-theme.json"
+      },
+      {
+        "label": "Hyper.is Theme - hyperyellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hyper.is Theme-yellow-color-theme.json"
       }
     ]
   }
