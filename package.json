@@ -5,7 +5,7 @@
   "description": "color theme based on the standard Hyperterm colors",
   "category": "themes",
   "icon": "img/Hyper_Logo.png",
-  "version": "0.0.8",
+  "version": "0.1",
   "author": {
     "name": "Dietrich"
   },
