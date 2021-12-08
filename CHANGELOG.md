@@ -4,6 +4,10 @@ All notable changes to the "hyper-is-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.1]
+
+- add fix deployment
+
 ## [0.1]
 
 - add second theme (hyperyellow)
