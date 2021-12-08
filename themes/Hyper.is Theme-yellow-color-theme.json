@@ -1,5 +1,5 @@
 {
-	"name": "Hyper.is Theme yellow",
+	"name": "Hyper.is Theme - hyperyellow",
 	"type": "dark",
 	"colors": {
 		"activityBarBadge.background": "#FFFF00",
@@ -177,12 +177,12 @@
 		"statusBar.debuggingBackground": "#FFFF00",
 		"statusBar.debuggingBorder": "#FFFF00",
 		"statusBar.debuggingForeground": "#000",
-		"statusBar.foreground": "#E300FC",
+		"statusBar.foreground": "#FFFF00",
 		"statusBar.noFolderBackground": "#000",
 		"statusBar.noFolderBorder": "#FFFF00",
 		"statusBar.noFolderForeground": "#C7C7C7",
 		"statusBarItem.activeBackground": "#686868",
-		"statusBarItem.hoverBackground": "#FFFF00",
+		"statusBarItem.hoverBackground": "#E300FC",
 		"statusBarItem.prominentBackground": "#000",
 		"statusBarItem.prominentHoverBackground": "#000",
 		// tab
